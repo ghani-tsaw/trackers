@@ -1,1 +1,0 @@
-var timerStart = (new Date).getTime();
